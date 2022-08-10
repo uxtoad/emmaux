@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Emma | UX Writer</title>
+    <meta property="og:title" content="Emma" />
+    <meta property="og:locale" content="en_US" />
+    <script src="https://kit.fontawesome.com/4f37dd4334.js" crossorigin="anonymous"></script>
+    <meta http-equiv='cache-control' content='no-cache'> 
+    <meta http-equiv='expires' content='0'> 
+    <meta http-equiv='pragma' content='no-cache'>
+    <link rel="stylesheet" href="/assets/css/custom.css">
+    <!--<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">-->
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+   
+      <header id="masthead">        
+       <nav>
+         <span><a href="/">Emma Arakelyan</a></span>
+          <ul>
+            <li><a href="https://www.figma.com/file/H5N2cbrerDA2i1cw8wFhXw/Portfolio?node-id=301%3A2546/" target="_blank">Portfolio <i class="fas fa-external-link-alt" aria-hidden="true"></i></a></li>
+            <li><a href="/library">UX Library</a></li>
+            <li><a href="/contact">ontact</a></li>
+          </ul>
+        </nav>
+      </header>
+     <div class="wrapper">
+      <section id="defaultpage">
+          
+      {{ content }}
+        
+      </section>
+    </div>
+      <footer><hr>
+        Emma Arakelyan, 2022
+        <div class="social-media">
+          <a class="linkedin" href="https://linkedin.com/in/emmathewriter/"><i class="fa fa-linkedin"></i></a>
+        </div>
+      </footer>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
