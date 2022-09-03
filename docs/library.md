@@ -22,7 +22,7 @@ Here's a collection of books that helped me hone my craft and will likely be use
 * Nicole Fenton & Kate Kiefer Lee, "Nicely Said"
 
 ## Accessibility
-<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines (WCAG) 2.0</a> are a good starting point.
+<a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank">Web Content Accessibility Guidelines (WCAG) 2.0</a> are a good starting point.
 * Laura Kalbag, "Accessibility for Everyone"
 
 ## How to organize and present information
