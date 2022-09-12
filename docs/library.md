@@ -2,7 +2,7 @@
 
 Here's a collection of books that helped me hone my craft and will likely be useful for other writers as well.
 
-❤️ **Favorite**: Aaron Walter, "Designing for Emotion." A book on how to craft accessible, conversational copy that reflects the company's tone of voice and overall personality.
+❤️ **Favourite**: Aaron Walter, "Designing for Emotion." An engaging book on how to craft accessible, conversational copy that reflects the company's tone of voice and overall personality.
 
 ## Content design
 * Kinneret Yifrah, "Microcopy: The Complete Guide"
@@ -25,7 +25,7 @@ Here's a collection of books that helped me hone my craft and will likely be use
 <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank">Web Content Accessibility Guidelines (WCAG) 2.0</a> are a good starting point.
 * Laura Kalbag, "Accessibility for Everyone"
 
-## How to organize and present information
+## How to organise and present information
 * Susan Weinschenk, "100 Things Every Designer Needs to Know About People"
 
 ## Why fonts matter
